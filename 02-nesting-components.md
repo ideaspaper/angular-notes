@@ -1,3 +1,5 @@
+[BACK](./README.md)
+
 # Nesting Components
 
 Sebuah aplikasi Angular dibangun dari kumpulan component. Sebuah component dapat tersusun dari component lainnya. Sebagai contoh pada bahasan sebelumnya, component `ParentComponent` memiliki component `ChildComponent`.
@@ -127,3 +129,5 @@ Sebagai catatan:
 
 - Content tidak harus berupa component, namun dapat berupa tag HTML lain.
 - Apabila terdapat `<ng-content>` yang tidak memiliki attribute `select`, maka `<ng-content>` tersebut akan menerima component-component lain yang tidak di-`select`.
+
+[BACK](./README.md)
