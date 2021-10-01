@@ -22,3 +22,4 @@ $ ng serve --open
 
 - [Components](./01-components.md)
 - [Nesting Components](./02-nesting-components.md)
+- [Lifecycle](./03-lifecycle.md)
